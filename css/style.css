@@ -1,8 +1,41 @@
+.block{
+  background-color:black;
+  opacity:.8;
+  padding:10px;
+  width:50%;
+  margin-right:auto;
+  margin-left:auto;
+  border-radius:10px;
+}
+
 .nav-pills{
-  font-family:Arsenal;
   font-size:1.7em;
   background-color:black;
+  margin-bottom:10%;
 }
+
+.btn-default{
+  background-color:black;
+  border-color:white;
+  color:#337ab7;
+  font-size:1.7em;
+}
+
 body{
   background-color:white;
+  font-family:Arsenal;
+  color:white;
+}
+
+h1{
+  margin-top:0px;
+  font-size:5em;
+  padding-top:0;
+}
+
+.pageOne{
+  background:url("http://quantumloft.com/wp-content/uploads/2016/07/pier.jpg");
+ background-size:cover;
+  height:800px;
+  
 }
