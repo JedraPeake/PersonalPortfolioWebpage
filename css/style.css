@@ -8,6 +8,12 @@
   border-radius:10px;
 }
 
+.me{
+  height:400px;
+  margin-right:auto;
+  margin-left:auto;
+}
+
 .nav-pills{
   font-size:1.7em;
   background-color:black;
@@ -34,8 +40,19 @@ h1{
 }
 
 .pageOne{
-  background:url("http://quantumloft.com/wp-content/uploads/2016/07/pier.jpg");
+  background:url("https://static.pexels.com/photos/111263/pexels-photo-111263.jpeg");
  background-size:cover;
   height:800px;
   
+}
+
+.pageTwo{
+   background:url("https://static.pexels.com/photos/203980/pexels-photo-203980.jpeg");
+  background-size:cover;
+  height:800px;
+  padding-top:5%;
+}
+
+p{
+  font-size:2.2em;
 }
